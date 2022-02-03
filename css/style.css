@@ -1,0 +1,47 @@
+body 
+{
+  background-image: url('https://codd.cs.gsu.edu/~srushapi1/WP/HW/css/HW01/images/bg1.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  }
+  img {
+    width: 100px;
+    border-radius: 50px;
+    
+}
+  table,th,td{border:1px solid black;}
+  tr:nth-child(even){
+  background-color:white;}
+  tr:nth-child(odd){
+  background-color:skyblue;}
+ *{
+	 font-family: Arial,Helvetica,sans-serif;
+ }
+ h1
+ {
+  color:dimgray ;
+ }
+ h2
+ {
+  color: blue;
+ }
+ h3
+ {
+  color:darkslategray;
+ }
+ p
+  {
+    color:green;
+  }
+  
+  #Vegeta, #Naruto {
+      background-color: lightcyan;
+      border: 1px dashed black ;
+      padding: 10px;
+      margin-bottom: 2px;
+
+  }
+
