@@ -1,6 +1,10 @@
 body 
 {
+<<<<<<< HEAD
   background-image: url('https://codd.cs.gsu.edu/~srushapi1/WP/HW001/images/bg1.jpg');
+=======
+  background-image: url('https://codd.cs.gsu.edu/~srushapi1/WP/HW01/images/bg1.jpg');
+>>>>>>> f038159e36e94e3efdefb438b56e739333633690
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
